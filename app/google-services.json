@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477257626713",
+    "project_id": "mybottnav",
+    "storage_bucket": "mybottnav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477257626713:android:7174c1584c110a08d8ad48",
+        "android_client_info": {
+          "package_name": "com.example.mybottnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477257626713-m9fi94qq0tpccvd0m996pg3ar7t2gghm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mybottnav",
+            "certificate_hash": "7fe111a1f438c45ba060ae13a533703e3ecec911"
+          }
+        },
+        {
+          "client_id": "477257626713-kon1a0j14ptk1tcvtvgflfk10u36nrmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEQ41vObKY2GjbbFa2H6hMB5MZTnxIDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477257626713-kon1a0j14ptk1tcvtvgflfk10u36nrmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

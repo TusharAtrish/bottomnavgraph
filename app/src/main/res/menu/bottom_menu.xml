@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miHome"
+        android:title="home"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/miMessages"
+        android:title="messages"
+        android:icon="@drawable/ic_message"
+        />
+    <item
+        android:id="@+id/miSettings"
+        android:title="settings"
+        android:icon="@drawable/ic_settings"/>
+    <item
+        android:id="@+id/miProfile"
+        android:title="profile"
+        android:icon="@drawable/ic_profile"
+        />
+</menu>
